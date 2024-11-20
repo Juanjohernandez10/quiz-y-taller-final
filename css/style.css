@@ -36,6 +36,7 @@ button {
 #delete-button {
     background-color: #e74c3c;
 }
+
 table {
     width: 80%;
     max-width: 600px;
@@ -51,11 +52,11 @@ th, td {
     cursor: pointer;
 }
 th {
-    background-color: #4a90e2;
+    background-color: #4302c4;
     color: rgb(178, 216, 227);
 }
 tr:nth-child(even) {
-    background-color: #f9f9f9;
+    background-color: #5688c6;
 }
 tr:hover {
     background-color: #e3f2fd;
